@@ -1,0 +1,12 @@
+header{
+    background-image: black;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+footer{
+    height: 50px;
+    background-size: cover;
+}
